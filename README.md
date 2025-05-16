@@ -38,5 +38,5 @@ This project aims to detect fake news articles using natural language processing
 
 ## ✍ Author
 
-Mirudhula K
+Sharan M
 Date: 17 May 2025
